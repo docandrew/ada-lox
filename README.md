@@ -3,7 +3,8 @@
 This is an implementation of the Lox interpreter in the Ada programming language,
 based on the book "Crafting Interpreters" by Bob Nystrom.
 
-<i class="fas fa-exclamation-triangle"></i> **Note: I'm updating this repository as I work through the book, so it may be unfinished and may contain bugs or missing features.**
+> **Warning**
+> I'm updating this repository as I work through the book, so it may be unfinished and may contain bugs or missing features.
 
 ## Getting started
 
